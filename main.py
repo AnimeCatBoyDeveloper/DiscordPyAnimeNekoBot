@@ -14,7 +14,7 @@ async def on_ready():
 
 @bot.command(name="info", pass_context=True)
 async def _info(ctx):
-    await ctx.send("Приветииикиии, меня зовут Няшка, разрабочик мой - Ferlix#2886, я нихуя не умею, но сделаю ваше пребывание в этой помойке веселее!!!!!1!1!! >/////<\nПопробуй nya!help и узнай!!!!\nЛюблю тебя. :3")
+    await ctx.send("Приветииикиии, меня зовут Няшка, разрабочик мой - AnimeCatBoyDeveloper#5301, я нихуя не умею, но сделаю ваше пребывание в этой помойке веселее!!!!!1!1!! >/////<\nПопробуй nya!help и узнай!!!!\nЛюблю тебя. :3")
 
 @bot.command(name="help", pass_context=True)
 async def _help(ctx):
